@@ -1,0 +1,446 @@
+<!--start navbar-->
+<nav>
+ <div class="row">
+    <div class="logo">
+        <a href="#"> <img src="assets/image/logo.png.webp" alt="content"></a>
+    </div>
+
+    <label for="inpcheched"><i class="fa-solid fa-bars"></i></label>
+    <input type="checkbox" id="inpcheched">
+
+
+
+
+    <div class="nav-list">
+        <ul class="list">
+            <li  class="nav-item"> <a  class="nav-link" href="#">home</a></li>
+            <li  class="nav-item"> <a  class="nav-link" href="#">shop</a></li>
+            <li  class="nav-item"> <a  class="nav-link" href="#">about</a></li>
+            <li  class="nav-item"> <a  class="nav-link" href="#">latest</a>
+            
+            <ul class="dropdown">
+                <li class="dropdown-list"><a href="#" class="dropdown-item">Product list</a></li>
+                <li class="dropdown-list"><a href="#" class="dropdown-item">Product details</a></li>
+
+            </ul>
+            </li>
+            <li  class="nav-item"> <a  class="nav-link" href="#">Blog</a></li>
+            <li  class="nav-item"> <a  class="nav-link" href="#">pages</a></li>
+            <li  class="nav-item"> <a  class="nav-link" href="#">contact</a></li>
+
+        </ul>
+    </div>
+<div class="nav-icon">
+    <i  class="fa-solid fa-magnifying-glass" ></i>
+    <i class="fa-solid fa-user"></i>
+    <i class="fa-solid fa-cart-shopping"></i>
+</div>
+</div>
+</nav>
+<!--end navbar-->
+
+
+<!--start header-->
+<header>
+<div class="container">
+    <div class="row">
+        <div class="header-content">
+            <h1 class="moh">Select Your New Perfect Style</h1>
+            <p class="paragraph">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat is aute irure.</p>
+            <button class="btn">SHOP NOW</button>
+        </div>
+        <div class="header-img">
+            <img src="assets/image/watch.png.webp" alt="">
+        </div>
+
+
+    </div>
+</div>
+
+</header>
+<!--end header-->
+
+
+
+<!--start section arrivals-->
+<section class="arrivals">
+
+    <h1 class="title">New Arrivals</h1>
+
+    <div class="container">
+
+<div class="row">
+
+<div class="parent">
+    <div class="img-over">
+    <img src="assets/image/new_product1.png.webp" alt="">
+</div>
+    <div class="caption">
+    <a href="#">Thermo Ball Etip Gloves</a>
+    <p> $ 45,743</p>
+</div>
+</div>
+
+<div class="parent">
+    <div class="img-over">
+    <img src="assets/image/new_product2.png.webp" alt="">
+</div>
+    <div class="caption">
+    <a href="#">Thermo Ball Etip Gloves</a>
+    <p> $ 45,743</p>
+</div>
+</div>
+
+<div class="parent">
+    <div class="img-over">
+    <img src="assets/image/new_product3.png.webp" alt="">
+</div>
+    <div class="caption">
+    <a href="#">Thermo Ball Etip Gloves</a>
+    <p> $ 45,743</p>
+</div>
+</div>
+
+</div>
+    </div>
+
+
+
+</section>
+<!--end section arrivals-->
+
+
+
+
+<!---------strat section gallary----------->
+
+<section class="gallary">
+    <div class="gallary-row">
+
+        <div class="img-single">
+            <img src="assets/image/gallery1.png.webp" alt="">
+        </div>
+
+        <div class="img-single"><img src="assets/image/gallery2.png.webp" alt="">
+        </div>
+
+
+
+        <div class="img-single">
+
+            <div class="gallary-coloume">
+                <div class="img-single">
+                    <img src="assets/image/gallery3.png.webp" alt="">
+                </div>
+
+
+                <div class="img-single">
+                    <img src="assets/image/gallery4.png.webp" alt="">
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<!---------end section gallary------------->
+
+
+
+
+
+
+
+
+
+<!---------strat popular gallary----------->
+
+<section class="popular">
+    <div class="container">
+
+        <div class="title">
+            <h2>Popular Items </h2>
+            <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <span>
+                    ipsum suspendisse ultrices gravida.</span></p>
+        </div>
+
+
+        <div class="row">
+
+
+            <div class="single-popular">
+                <div class="img-popular">
+                    <img src="assets/image/watch/popular1.png.webp" alt="">
+                    <a href="#" class="icon-popular"><i class="fa-regular fa-heart"></i></a>
+                    <a class="add-card" href="#"> Add To Cart </a>
+                    <div class="caption">
+                        <a href="#">Thermo Ball Etip Gloves</a>
+                        <p>$ 45,743</p>
+                    </div>
+                </div>
+            </div>
+            <div class="single-popular">
+                <div class="img-popular">
+                    <img src="assets/image/watch/popular2.png.webp" alt="">
+                    <a href="#" class="icon-popular"><i class="fa-regular fa-heart"></i></a>
+                    <a class="add-card" href="#"> Add To Cart </a>
+                    <div class="caption">
+                        <a href="#">Thermo Ball Etip Gloves</a>
+                        <p>$ 45,743</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="single-popular">
+                <div class="img-popular">
+                    <img src="assets/image/watch/popular3.png.webp" alt="">
+                    <a href="#" class="icon-popular"><i class="fa-regular fa-heart"></i></a>
+                    <a class="add-card" href="#"> Add To Cart </a>
+                    <div class="caption">
+                        <a href="#">Thermo Ball Etip Gloves</a>
+                        <p>$ 45,743</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="single-popular">
+                <div class="img-popular">
+                    <img src="assets/image/watch/popular4.png.webp" alt="">
+                    <a href="#" class="icon-popular"><i class="fa-regular fa-heart"></i></a>
+                    <a class="add-card" href="#"> Add To Cart </a>
+                    <div class="caption">
+                        <a href="#">Thermo Ball Etip Gloves</a>
+                        <p>$ 45,743</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="single-popular">
+                <div class="img-popular">
+                    <img src="assets/image/watch/popular5.png.webp" alt="">
+                    <a href="#" class="icon-popular"><i class="fa-regular fa-heart"></i></a>
+                    <a class="add-card" href="#"> Add To Cart </a>
+                    <div class="caption">
+                        <a href="#">Thermo Ball Etip Gloves</a>
+                        <p>$ 45,743</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="single-popular">
+                <div class="img-popular">
+                    <img src="assets/image/watch/popular6.png.webp" alt="">
+                    <a href="#" class="icon-popular"><i class="fa-regular fa-heart"></i></a>
+                    <a class="add-card" href="#"> Add To Cart </a>
+                    <div class="caption">
+                        <a href="#">Thermo Ball Etip Gloves</a>
+                        <p>$ 45,743</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <button class="btn"> VIEW MORE PRODUCT </button>
+        </div>
+
+</section>
+<!---------end popular gallary------------->
+
+<!-- start section video-->
+
+<section class="choice-watch">
+
+
+    <div class="container">
+        <div class="row">
+
+            <div class="sec-one">
+
+                <h2 class="first-clock">Watch of Choice</h2>
+                <p class="secound-clock">Enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+                <button class="btn"> SHOW WATCHES </button>
+            </div>
+
+
+            <div class="sec-one">
+                <img src="assets/image/choce_watch1.png.webp" alt="">
+            </div>
+
+
+
+            <div class="sec-one">
+                <img src="assets/image/choce_watch2.png.webp" alt="">
+            </div>
+
+            <div class="sec-one">
+                <h2 class="first-clock">Watch of Choice</h2>
+                <p class="secound-clock">Enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+                <button class="btn"> SHOW WATCHES</button>
+            </div>
+
+
+
+        </div>
+    </div>
+
+
+</section>
+
+
+
+
+
+<!-- end section video-->
+
+
+
+
+<!-- start  section security-->
+<section class="package">
+    <div class="container">
+<div class="row">
+
+    <div class="single-package">
+        <i class="fa-solid fa-cube"></i>    
+            <h6>Free Shipping Method</h6>
+        <p>aorem ixpsacdolor sit ameasecur adipisicing elitsf edasd.</p>
+    </div>
+
+
+    <div class="single-package">
+        <i class="fa-solid fa-unlock-keyhole"></i>     
+                   <h6>Secure Payment System </h6>
+        <p>aorem ixpsacdolor sit ameasecur adipisicing elitsf edasd.</p>
+    </div>
+
+
+    <div class="single-package">
+        <i class="fa-solid fa-arrows-rotate"></i>
+                 <h6>Secure Payment System</h6>
+        <p>aorem ixpsacdolor sit ameasecur adipisicing elitsf edasd.</p>
+    </div>
+
+</div>
+
+    </div>
+</section>
+
+
+
+
+<!-- end section security-->
+
+
+
+<!-- start footer-->
+<footer class="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 my-5 border-top">
+    <div class="col mb-3">
+      <a href="/" class="d-flex align-items-center mb-3 link-body-emphasis text-decoration-none">
+        <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"/></svg>
+      </a>
+      <p class="text-body-secondary">&copy; 2024</p>
+    </div>
+
+    <div class="col mb-3">
+
+    </div>
+
+    <div class="col mb-3">
+      <h5>Section</h5>
+      <ul class="nav flex-column">
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Home</a></li>
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Features</a></li>
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Pricing</a></li>
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">FAQs</a></li>
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">About</a></li>
+      </ul>
+    </div>
+
+    <div class="col mb-3">
+      <h5>Section</h5>
+      <ul class="nav flex-column">
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Home</a></li>
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Features</a></li>
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Pricing</a></li>
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">FAQs</a></li>
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">About</a></li>
+      </ul>
+    </div>
+
+    <div class="col mb-3">
+      <h5>Section</h5>
+      <ul class="nav flex-column">
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Home</a></li>
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Features</a></li>
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Pricing</a></li>
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">FAQs</a></li>
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">About</a></li>
+      </ul>
+    </div>
+  </footer>
+</div>
+
+<div class="b-example-divider"></div>
+
+
+<div class="container">
+  <footer class="py-5">
+    <div class="row">
+      <div class="col-6 col-md-2 mb-3">
+        <h5>Section</h5>
+        <ul class="nav flex-column">
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Home</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Features</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Pricing</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">FAQs</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">About</a></li>
+        </ul>
+      </div>
+
+      <div class="col-6 col-md-2 mb-3">
+        <h5>Section</h5>
+        <ul class="nav flex-column">
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Home</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Features</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Pricing</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">FAQs</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">About</a></li>
+        </ul>
+      </div>
+
+      <div class="col-6 col-md-2 mb-3">
+        <h5>Section</h5>
+        <ul class="nav flex-column">
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Home</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Features</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Pricing</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">FAQs</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">About</a></li>
+        </ul>
+      </div>
+
+      <div class="col-md-5 offset-md-1 mb-3">
+        <form>
+          <h5>Subscribe to our newsletter</h5>
+          <p>Monthly digest of what's new and exciting from us.</p>
+          <div class="d-flex flex-column flex-sm-row w-100 gap-2">
+            <label for="newsletter1" class="visually-hidden">Email address</label>
+            <input id="newsletter1" type="text" class="form-control" placeholder="Email address">
+            <button class="btn btn-primary" type="button">Subscribe</button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
+      <p>&copy; 2024 Company, Inc. All rights reserved.</p>
+      <ul class="list-unstyled d-flex">
+        <li class="ms-3"><a class="link-body-emphasis" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#twitter"/></svg></a></li>
+        <li class="ms-3"><a class="link-body-emphasis" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#instagram"/></svg></a></li>
+        <li class="ms-3"><a class="link-body-emphasis" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#facebook"/></svg></a></li>
+      </ul>
+    </div>
+  </footer>
+<!-- end  footer-->
